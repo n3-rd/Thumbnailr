@@ -1,0 +1,20 @@
+{
+  "name": "thumbnailer",
+  "version": "1.0.0",
+  "description": "generate thumbnail images with text",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "color": "^4.2.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
