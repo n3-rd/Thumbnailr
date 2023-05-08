@@ -60,7 +60,3 @@ Start the development server
 ```bash
   npm run dev
 ```
-
-
-![Logo](https://i.ibb.co/Vv8gxb2/thumbnailr-onrender.png)
-
